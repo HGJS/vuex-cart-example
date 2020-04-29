@@ -2,7 +2,7 @@
   <div id="app">
     <app-top-header></app-top-header>
     <app-message></app-message>
-    <div class="container-fluid">
+    <div class="container">
       <router-view></router-view>
     </div>
   </div>
