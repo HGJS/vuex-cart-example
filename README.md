@@ -1,5 +1,7 @@
 # vuex-cart-example
 
+Example can be seen [here](https://zen-varahamihira-29e335.netlify.app/#/)
+
 ## Project setup
 ```
 npm install
